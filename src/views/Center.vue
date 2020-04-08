@@ -7,6 +7,7 @@
 
 <script>
 //li si zai master shang xiu gai wenjian 
+//li si di er ci xiugai 
 export default {
     beforeRouteEnter (to, from, next) {
         console.log(this,'center---beforerouterenter')
