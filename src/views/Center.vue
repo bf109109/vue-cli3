@@ -1,6 +1,7 @@
 <template>
     <div class="center">
         center...
+        <!-- lisi de daima  -->
     </div>
 </template>
 
