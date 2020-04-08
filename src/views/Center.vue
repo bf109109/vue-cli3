@@ -1,10 +1,12 @@
 <template>
     <div class="center">
         center...
+        <!-- lisi de daima  -->
     </div>
 </template>
 
 <script>
+//li si zai master shang xiu gai wenjian 
 export default {
     //詹三修改的master wen jian 
     beforeRouteEnter (to, from, next) {
