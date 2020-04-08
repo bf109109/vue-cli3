@@ -1,6 +1,7 @@
 <template>
     <div class="center">
         center...
+        <!-- zhang san de dai ma -->
     </div>
 </template>
 
