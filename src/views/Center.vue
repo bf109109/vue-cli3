@@ -9,6 +9,8 @@
 //li si zai master shang xiu gai wenjian 
 //li si di er ci xiugai 
 export default {
+    //詹三修改的master wen jian 
+    //zhang san di er ci xiugai 
     beforeRouteEnter (to, from, next) {
         console.log(this,'center---beforerouterenter')
         next()
